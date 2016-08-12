@@ -1,0 +1,32 @@
+#divButton {
+  margin:auto;
+  text-align:center;
+ 
+}
+
+#playButton {
+  font-size: 50px;
+  background-color: red;
+    
+}
+ 
+ #body {
+ background-image: url("http://vignette2.wikia.nocookie.net/future/images/2/23/17730_1_miscellaneous_digital_art_apocalyptic_destruction_destroyed_city_2284001.jpg/revision/latest?cb=20141102193000");
+background-size: cover;
+background-repeat: no-repeat;
+/* cursor: url('http://image.flaticon.com/icons/png/128/19/19914.png'), auto; */
+  }
+
+#gun {
+  
+}
+
+#zombie0 {
+  position: relative;
+}
+#zombie1 {
+  position: relative;
+}
+#zombie2 {
+  position: relative;
+}
